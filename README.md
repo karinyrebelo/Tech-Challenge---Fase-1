@@ -8,8 +8,7 @@ Antonio Ferrazzoli Santos;
 Bianca Braga de Carvalho;
 Isabela Rizzardi dos Santos;
 Thaynnara Luciana dos Santos;
-Kariny Lys Lugão Rebelo;
-Vinicius Leite Souza.
+Kariny Lys Lugão Rebelo.
 
 *Português*
 
@@ -20,5 +19,4 @@ Antonio Ferrazzoli Santos;
 Bianca Braga de Carvalho;
 Isabela Rizzardi dos Santos;
 Thaynnara Luciana dos Santos;
-Kariny Lys Lugão Rebelo;
-Vinicius Leite Souza.
+Kariny Lys Lugão Rebelo.
