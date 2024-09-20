@@ -1,7 +1,7 @@
 # Tech-Challenge - Fase 1 - FIAP
 Tech Challenge - Curso Pós Tech Data Analytics - FIAP
 
-Link: https://my.visme.co/view/31oeqd44-tc-1-2dtat-grupo-22#s9
+Project Presentation: https://my.visme.co/view/31oeqd44-tc-1-2dtat-grupo-22#s9
 
 This project was carried out with the aim of providing insights into the export and import of wines from Rio Grande do Sul.
 
@@ -11,6 +11,8 @@ Bianca Braga de Carvalho;
 Isabela Rizzardi dos Santos;
 Thaynnara Luciana dos Santos;
 Kariny Lys Lugão Rebelo.
+
+Through collaborative efforts, the team analyzed key metrics to generate meaningful insights into the wine trade landscape, contributing to a deeper understanding of the sector's dynamics.
 
 *Português*
 
