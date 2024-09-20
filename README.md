@@ -1,6 +1,8 @@
 # Tech-Challenge - Fase 1 - FIAP
 Tech Challenge - Curso Pós Tech Data Analytics - FIAP
 
+Link: https://my.visme.co/view/31oeqd44-tc-1-2dtat-grupo-22#s9
+
 This project was carried out with the aim of providing insights into the export and import of wines from Rio Grande do Sul.
 
 The participants of this project were:
